@@ -1,4 +1,4 @@
-# 腾讯游戏QQ三国的服务端
+# 腾讯游戏QQ三国服务端
 
 Source code of mobile game QQ Three Kingdoms of Tencent
 https://sgonline.shop
